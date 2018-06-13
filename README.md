@@ -3,7 +3,7 @@
 
 
 ## 简介：
-- **MyJavaLeetCode**项目中部分题目之前在该leetcode中已经单独提交过，该项目是将其与之前尚未提交的题目整合分类后一并提交上来的。而且后期也会随着本人的做题进度提交近的题目。所有提交的题目都是在本人*leetcode*[https://leetcode-cn.com/fjddhd/](https://leetcode-cn.com/fjddhd/ "")上提交通过的解答，但并不保证所有的解答都是最规范效率最高的解答。
+- **MyJavaLeetCode**项目中部分题目之前在该leetcode中已经单独提交过，该项目是将其与之前尚未提交的题目整合分类后一并提交上来的。而且后期也会随着本人的做题进度提交近的题目。所有提交的题目都是在本人*leetcode*([https://leetcode-cn.com/fjddhd/](https://leetcode-cn.com/fjddhd/ ""))上提交通过的解答，但并不保证所有的解答都是最规范效率最高的解答。
 - 前两次提交是整合了之前提交过的所有单个题目以及部分漏提交题目。
 
 
