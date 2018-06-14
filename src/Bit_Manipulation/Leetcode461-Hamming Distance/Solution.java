@@ -11,7 +11,7 @@ class Solution {
         ysl=ys.length();
         length=Math.abs(xsl-ysl);
         max_length=Math.max(xsl,ysl);
-        if(xsl>ysl){//µ±y³¤¶È±ÈxÐ¡Ê±£¬ÓÃ0ÔÚÆäÇ°Ãæ²¹³äµ½ÏàÍ¬³¤¶È
+        if(xsl>ysl){//ï¿½ï¿½yï¿½ï¿½ï¿½È±ï¿½xÐ¡Ê±ï¿½ï¿½ï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½Ç°ï¿½æ²¹ï¿½äµ½ï¿½ï¿½Í¬ï¿½ï¿½ï¿½ï¿½
             StringBuffer ysb=new StringBuffer(ys);
 
             StringBuffer temp=new StringBuffer("0");
@@ -21,7 +21,7 @@ class Solution {
             ys=y_ahead.toString();
 
         }
-        else {//µ±x³¤¶È±ÈyÐ¡Ê±£¬¶ÔÓ¦µØ¡­¡­
+        else {//ï¿½ï¿½xï¿½ï¿½ï¿½È±ï¿½yÐ¡Ê±ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½Ø¡ï¿½ï¿½ï¿½
             StringBuffer xsb=new StringBuffer(xs);
             StringBuffer temp=new StringBuffer("0");
             for (int i=0;i<length;++i)
