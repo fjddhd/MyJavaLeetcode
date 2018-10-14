@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/MyContest/test.java" afterPath="$PROJECT_DIR$/src/MyContest/test.java" />
+      <change beforePath="$PROJECT_DIR$/src/src/CBTInserter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode884.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode887.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode888.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode888n.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode889.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode889n.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode890.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode890n.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode892.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode896.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode897.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode898.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode904.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode905.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907_2.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907_3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode908.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode909.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode910.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode914.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode915.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode916.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode917.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Leetcode918.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/ListNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/MyLeetcode889.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution868.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution869.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution872.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution874.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution876.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution877.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution885.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/Test874.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/TreeNode.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/src/test.java" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Solution.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyJavaLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJavaLeetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJavaLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJavaLeetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Leetcode167" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="" />
+      <created>1528897111798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528897111798</updated>
+    </task>
+    <task id="LOCAL-00010" summary="268题ac，简单的异或操作">
+      <created>1529664416011</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1529664416011</updated>
+    </task>
+    <task id="LOCAL-00011" summary="853题ac，中等难度数组题，solution内开头注释了解题思路">
+      <created>1529741095351</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529741095352</updated>
+    </task>
+    <task id="LOCAL-00012" summary="796题ac,使用stringbuild很简单">
+      <created>1529922166319</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1529922166319</updated>
+    </task>
+    <task id="LOCAL-00013" summary="605ac,注意开头和结尾不为1的情况的巧妙解决办法">
+      <created>1529993197211</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529993197211</updated>
+    </task>
+    <task id="LOCAL-00014" summary="125题ac，验证回文串">
+      <created>1530094510846</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1530094510846</updated>
+    </task>
+    <task id="LOCAL-00015" summary="217ac,主要哈希表的简单性质应用">
+      <created>1530176694880</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1530176694881</updated>
+    </task>
+    <task id="LOCAL-00016" summary="290ac,用hashmap，注意里面细节&#10;另：null不可调用String中equals()">
+      <created>1530268160432</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1530268160432</updated>
+    </task>
+    <task id="LOCAL-00017" summary="657ac非常简单的题，但是题目要求不好，实际上不是判断成环，而是判断最后是否会回到原点">
+      <created>1530342946628</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1530342946628</updated>
+    </task>
+    <task id="LOCAL-00018" summary="860错过了竞赛时间，补做里面最简单的题">
+      <created>1530441501881</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1530441501881</updated>
+    </task>
+    <task id="LOCAL-00019" summary="697其中NewSolution是ac解，必须要空间换时间，一次遍历">
+      <created>1530521673861</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1530521673861</updated>
+    </task>
+    <task id="LOCAL-00020" summary="442ac,为了线性时间和无额外空间&#10;方法:&#10;如果值与对应下标不一致则依次把值与对应下标的元素交换，若一致则切换下一值&#10;如果这两个一样，加入结果集，切换下一个值">
+      <created>1530538525182</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1530538525182</updated>
+    </task>
+    <task id="LOCAL-00021" summary="64ac,很好的动态规划题">
+      <created>1530600968802</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1530600968802</updated>
+    </task>
+    <task id="LOCAL-00022" summary="219ac，不是很难的题，有很大的优化空间">
+      <created>1530699824543</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1530699824543</updated>
+    </task>
+    <task id="LOCAL-00023" summary="167ac，只是双指针，未使用二分法，网站提交判断容易超时但是提交成功显时长不算靠后，很奇怪">
+      <created>1530762480556</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1530762480557</updated>
+    </task>
+    <task id="LOCAL-00024" summary="563ac,比较简单的树题，基于层次遍历夹带递归计算子树下总值">
+      <created>1530844692264</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1530844692264</updated>
+    </task>
+    <task id="LOCAL-00025" summary="提交新题目696,791">
+      <created>1531123247173</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1531123247173</updated>
+    </task>
+    <task id="LOCAL-00026" summary="提交新题目287,367,387">
+      <created>1531409138530</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1531409138530</updated>
+    </task>
+    <task id="LOCAL-00027" summary="695ac，很好的题&#10;新创建一个回溯or dfs文件夹">
+      <created>1531567076298</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1531567076298</updated>
+    </task>
+    <task id="LOCAL-00028" summary="提交contest用的project整体">
+      <created>1531624072048</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1531624072048</updated>
+    </task>
+    <task id="LOCAL-00029" summary="简单题709补全，一般使用String内置方法就好">
+      <created>1531826440095</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1531826440095</updated>
+    </task>
+    <task id="LOCAL-00030" summary="705,空间换时间的简单hashset">
+      <created>1531907433960</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1531907433960</updated>
+    </task>
+    <task id="LOCAL-00031" summary="706,空间换时间的简单hashmap&#10;由于leetcode java键值都使用了int所以只是实现单纯用int的做法&#10;注：题目要求中提到值大于1，但某些测试用例中有值为0的情况">
+      <created>1532012357782</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1532012357782</updated>
+    </task>
+    <task id="LOCAL-00032" summary="415&#10;String加法，用的笨办法，以前做过更难一些的乘法">
+      <created>1532185725230</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1532185725230</updated>
+    </task>
+    <task id="LOCAL-00033" summary="上周末竞赛和735">
+      <created>1532343285495</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1532343285495</updated>
+    </task>
+    <task id="LOCAL-00034" summary="599&#10;主要是熟悉hashmap使用，遍历，以及list转数组">
+      <created>1532529877455</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1532529877456</updated>
+    </task>
+    <task id="LOCAL-00035" summary="539&#10;比较简单的中等题">
+      <created>1532655673903</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1532655673903</updated>
+    </task>
+    <task id="LOCAL-00036" summary="877，直接return true就可以通过这个copy了他人的动态规划">
+      <created>1533023737853</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533023737853</updated>
+    </task>
+    <task id="LOCAL-00037" summary="143，笨办法，注意避免大链表超时">
+      <created>1533027860983</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1533027860983</updated>
+    </task>
+    <task id="LOCAL-00038" summary="56使用了collections的sort配合比较器">
+      <created>1533111147492</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1533111147492</updated>
+    </task>
+    <task id="LOCAL-00039" summary="改56小bug以及增加了57的解答，思路一样">
+      <created>1533203807239</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1533203807239</updated>
+    </task>
+    <task id="LOCAL-00040" summary="更新周日竞赛">
+      <created>1533438430142</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1533438430142</updated>
+    </task>
+    <task id="LOCAL-00041" summary="很好的动态规划">
+      <created>1533654939441</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1533654939441</updated>
+    </task>
+    <task id="LOCAL-00042" summary="更新周竞赛笔记，上周发挥很差&#10;添加889题&#10;题目不难，不过相对有点复杂">
+      <created>1534245432395</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1534245432396</updated>
+    </task>
+    <task id="LOCAL-00043" summary="dfs的889题以及上周竞赛，发挥还不错">
+      <created>1534923321022</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1534923321022</updated>
+    </task>
+    <task id="LOCAL-00044" summary="把上周竞赛题单独分类">
+      <created>1534923565790</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1534923565790</updated>
+    </task>
+    <task id="LOCAL-00045" summary="上周发挥很差，单独提交893,889">
+      <created>1535450900256</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1535450900256</updated>
+    </task>
+    <task id="LOCAL-00046" summary="更新竞赛文件夹，上周二三题比较奇怪，后面单独重做">
+      <created>1536129536977</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1536129536977</updated>
+    </task>
+    <task id="LOCAL-00047" summary="提交900题">
+      <created>1536747112612</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1536747112612</updated>
+    </task>
+    <task id="LOCAL-00048" summary="832简单题补全">
+      <created>1536934408085</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1536934408085</updated>
+    </task>
+    <task id="LOCAL-00049" summary="441&#10;简单数学公式的处理特别是防止溢出&#10;二分查找基本操作&#10;优秀的题">
+      <created>1536946769714</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1536946769714</updated>
+    </task>
+    <task id="LOCAL-00050" summary="500题补全&#10;简单题，但是麻烦&#10;注意用哈希表，查找快">
+      <created>1537011360948</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1537011360949</updated>
+    </task>
+    <task id="LOCAL-00051" summary="更新竞赛习题库&#10;简化竞赛习题库文件结构">
+      <created>1537071114746</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1537071114747</updated>
+    </task>
+    <task id="LOCAL-00052" summary="237奇怪又巧妙的链表题（给的条减少）&#10;78，不错的子集dfs题">
+      <created>1537275785267</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1537275785268</updated>
+    </task>
+    <task id="LOCAL-00053" summary="901&#10;用两个栈储存next函数输入价格和对应值的方法，降低大数测试的空间占用">
+      <created>1537326193174</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1537326193175</updated>
+    </task>
+    <task id="LOCAL-00054" summary="142&#10;本题判环部分依据141的方法，但使用了额外空间，将来可以只用双指针优化">
+      <created>1537450307011</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1537450307012</updated>
+    </task>
+    <task id="LOCAL-00055" summary="238，方法很巧妙，但是使用了线性空间">
+      <created>1537598114783</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1537598114784</updated>
+    </task>
+    <task id="LOCAL-00056" summary="215，应该有更好的办法&#10;补充上周竞赛，不过第二题很奇怪，看不懂意图">
+      <created>1537871331896</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1537871331896</updated>
+    </task>
+    <task id="LOCAL-00057" summary="上周竞赛题库">
+      <created>1539091525270</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1539091525270</updated>
+    </task>
+    <task id="LOCAL-00058" summary="59题">
+      <created>1539264127317</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1539264127318</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="599&#10;主要是熟悉hashmap使用，遍历，以及list转数组" />
+    <MESSAGE value="539&#10;比较简单的中等题" />
+    <MESSAGE value="877，直接return true就可以通过这个copy了他人的动态规划" />
+    <MESSAGE value="143，笨办法，注意避免大链表超时" />
+    <MESSAGE value="56使用了collections的sort配合比较器" />
+    <MESSAGE value="改56小bug以及增加了57的解答，思路一样" />
+    <MESSAGE value="更新周日竞赛" />
+    <MESSAGE value="很好的动态规划" />
+    <MESSAGE value="更新周竞赛笔记，上周发挥很差&#10;添加889题&#10;题目不难，不过相对有点复杂" />
+    <MESSAGE value="dfs的889题以及上周竞赛，发挥还不错" />
+    <MESSAGE value="把上周竞赛题单独分类" />
+    <MESSAGE value="上周发挥很差，单独提交893,889" />
+    <MESSAGE value="更新竞赛文件夹，上周二三题比较奇怪，后面单独重做" />
+    <MESSAGE value="提交900题" />
+    <MESSAGE value="832简单题补全" />
+    <MESSAGE value="441&#10;简单数学公式的处理特别是防止溢出&#10;二分查找基本操作&#10;优秀的题" />
+    <MESSAGE value="500题补全&#10;简单题，但是麻烦&#10;注意用哈希表，查找快" />
+    <MESSAGE value="更新竞赛习题库&#10;简化竞赛习题库文件结构" />
+    <MESSAGE value="237奇怪又巧妙的链表题（给的条减少）&#10;78，不错的子集dfs题" />
+    <MESSAGE value="901&#10;用两个栈储存next函数输入价格和对应值的方法，降低大数测试的空间占用" />
+    <MESSAGE value="142&#10;本题判环部分依据141的方法，但使用了额外空间，将来可以只用双指针优化" />
+    <MESSAGE value="238，方法很巧妙，但是使用了线性空间" />
+    <MESSAGE value="215，应该有更好的办法&#10;补充上周竞赛，不过第二题很奇怪，看不懂意图" />
+    <MESSAGE value="上周竞赛题库" />
+    <MESSAGE value="59题" />
+    <option name="LAST_COMMIT_MESSAGE" value="59题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bit_Manipulation/Leetcode136-Single Number/Solution136.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bit_Manipulation/Leetcode461-Hamming Distance/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bit_Manipulation/Leetcode136-Single Number/Solution136.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Solution.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="40" lean-forward="false" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Array/Leetcode594-Longest Harmonious Subsequence/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
