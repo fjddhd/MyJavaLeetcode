@@ -1,47 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="">
+    <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="62以及上周竞赛题补充">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/MyContest/test.java" afterPath="$PROJECT_DIR$/src/MyContest/test.java" />
-      <change beforePath="$PROJECT_DIR$/src/src/CBTInserter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode884.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode887.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode888.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode888n.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode889.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode889n.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode890.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode890n.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode892.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode896.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode897.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode898.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode904.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode905.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907_2.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode907_3.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode908.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode909.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode910.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode914.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode915.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode916.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode917.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Leetcode918.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/ListNode.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/MyLeetcode889.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution868.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution869.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution872.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution874.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution876.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution877.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solution885.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/Test874.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/TreeNode.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/src/test.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -111,6 +73,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,14 +89,23 @@
               <item name="MyJavaLeetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyJavaLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJavaLeetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyJavaLeetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyJavaLeetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
+              <item name="Leetcode404-Sum of Left Leaves" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -606,7 +581,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1265625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
