@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="590">
+    <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -205,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528897111798</updated>
-    </task>
-    <task id="LOCAL-00016" summary="290ac,用hashmap，注意里面细节&#10;另：null不可调用String中equals()">
-      <created>1530268160432</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1530268160432</updated>
     </task>
     <task id="LOCAL-00017" summary="657ac非常简单的题，但是题目要求不好，实际上不是判断成环，而是判断最后是否会回到原点">
       <created>1530342946628</created>
@@ -549,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546418068060</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="589">
+      <created>1546430007517</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1546430007518</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,7 +587,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="56使用了collections的sort配合比较器" />
     <MESSAGE value="改56小bug以及增加了57的解答，思路一样" />
     <MESSAGE value="更新周日竞赛" />
     <MESSAGE value="很好的动态规划" />
@@ -612,7 +611,8 @@
     <MESSAGE value="最近两周竞赛题" />
     <MESSAGE value="补充周竞赛" />
     <MESSAGE value="590" />
-    <option name="LAST_COMMIT_MESSAGE" value="590" />
+    <MESSAGE value="589" />
+    <option name="LAST_COMMIT_MESSAGE" value="589" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
