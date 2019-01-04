@@ -206,13 +206,6 @@
       <option name="presentableId" value="Default" />
       <updated>1528897111798</updated>
     </task>
-    <task id="LOCAL-00017" summary="657ac非常简单的题，但是题目要求不好，实际上不是判断成环，而是判断最后是否会回到原点">
-      <created>1530342946628</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1530342946628</updated>
-    </task>
     <task id="LOCAL-00018" summary="860错过了竞赛时间，补做里面最简单的题">
       <created>1530441501881</created>
       <option name="number" value="00018" />
@@ -549,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546430007518</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="559">
+      <created>1546432917638</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1546432917638</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -587,7 +587,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="改56小bug以及增加了57的解答，思路一样" />
     <MESSAGE value="更新周日竞赛" />
     <MESSAGE value="很好的动态规划" />
     <MESSAGE value="更新周竞赛笔记，上周发挥很差&#10;添加889题&#10;题目不难，不过相对有点复杂" />
@@ -612,7 +611,8 @@
     <MESSAGE value="补充周竞赛" />
     <MESSAGE value="590" />
     <MESSAGE value="589" />
-    <option name="LAST_COMMIT_MESSAGE" value="589" />
+    <MESSAGE value="559" />
+    <option name="LAST_COMMIT_MESSAGE" value="559" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
