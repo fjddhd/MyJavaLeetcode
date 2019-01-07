@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Array/Leetcode463-Island Perimeter/Solution.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -206,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528897111798</updated>
-    </task>
-    <task id="LOCAL-00019" summary="697其中NewSolution是ac解，必须要空间换时间，一次遍历">
-      <created>1530521673861</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1530521673861</updated>
     </task>
     <task id="LOCAL-00020" summary="442ac,为了线性时间和无额外空间&#10;方法:&#10;如果值与对应下标不一致则依次把值与对应下标的元素交换，若一致则切换下一值&#10;如果这两个一样，加入结果集，切换下一个值">
       <created>1530538525182</created>
@@ -550,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546606571071</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="463">
+      <created>1546698620102</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1546698620102</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="ToolWindowManager">
