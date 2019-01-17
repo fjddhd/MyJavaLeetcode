@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="765af9a6-c091-4cb2-9b42-53289a1602e6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Array/Leetcode704-Binary Search/Solution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MyContest/Leetcode973.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MyContest/Leetcode974.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/String/Leetcode409-longest-palindrome/Solution.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/String/Leetcode409-longest-palindrome/Test.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MyContest/test.java" afterPath="$PROJECT_DIR$/src/MyContest/test.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -52,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -209,13 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528897111798</updated>
-    </task>
-    <task id="LOCAL-00024" summary="563ac,比较简单的树题，基于层次遍历夹带递归计算子树下总值">
-      <created>1530844692264</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1530844692264</updated>
     </task>
     <task id="LOCAL-00025" summary="提交新题目696,791">
       <created>1531123247173</created>
@@ -553,11 +544,18 @@
       <option name="project" value="LOCAL" />
       <updated>1547304399526</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="竞赛&#10;704">
+      <created>1547543654378</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1547543654378</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -592,7 +590,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="提交900题" />
     <MESSAGE value="832简单题补全" />
     <MESSAGE value="441&#10;简单数学公式的处理特别是防止溢出&#10;二分查找基本操作&#10;优秀的题" />
     <MESSAGE value="500题补全&#10;简单题，但是麻烦&#10;注意用哈希表，查找快" />
@@ -617,7 +614,8 @@
     <MESSAGE value="690&#10;很不错的简单题" />
     <MESSAGE value="110&#10;应该有更优雅的做法" />
     <MESSAGE value="竞赛&#10;704" />
-    <option name="LAST_COMMIT_MESSAGE" value="竞赛&#10;704" />
+    <MESSAGE value="409&#10;不错的题" />
+    <option name="LAST_COMMIT_MESSAGE" value="409&#10;不错的题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1011,7 +1009,7 @@
     <entry file="file://$PROJECT_DIR$/src/Math/Leetcode172-Factorial Trailing Zeroes/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
